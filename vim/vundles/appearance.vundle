@@ -1,5 +1,6 @@
 Bundle "chrisbra/color_highlight.git"
 Bundle "skwp/vim-colors-solarized"
+Bundle "chriskempson/tomorrow-theme", {'rtp': 'vim/'}
 Bundle "itchyny/lightline.vim"
 Bundle "bogado/file-line.git"
 Bundle "jby/tmux.vim.git"
