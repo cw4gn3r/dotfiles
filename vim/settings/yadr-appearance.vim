@@ -1,6 +1,5 @@
 " Make it beautiful - colors and fonts
 
-" http://ethanschoonover.com/solarized/vim-colors-solarized
 colorscheme Tomorrow-Night
 set background=dark
 
@@ -15,6 +14,8 @@ if has("gui_running")
 
   set lines=60
   set columns=190
+
+  set transparency=4
 
   if has("gui_gtk2")
     set guifont=Inconsolata\ XL\ 12,Inconsolata\ 15,Monaco\ 12
